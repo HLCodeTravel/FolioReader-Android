@@ -3,6 +3,8 @@
 [![Build Status](https://api.travis-ci.org/FolioReader/FolioReader-Android.svg?branch=master)](https://travis-ci.org/FolioReader/FolioReader-Android)
 
 FolioReader-Android is an EPUB reader written in Java and Kotlin.
+EPUB 阅读器
+
 
 ### Features
 
